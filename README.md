@@ -11,7 +11,7 @@ Some basic examples on reading and writing of files.
 ### Reading a time series data with labels
 
 ```python
-from spiksdata import reader
+from spiksparser import reader
 
 csv_reader = reader.ReadCSV('path/to/folder/')
 ```
