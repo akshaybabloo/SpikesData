@@ -20,7 +20,7 @@ except OSError:
         long_description = f.read()
 
 setup(
-    name='SpikesData',
+    name='SpikesParser',
     version=__version__,
     packages=find_packages(),
     url='https://github.com/akshaybabloo/SpikesParser',
