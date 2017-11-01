@@ -1,5 +1,9 @@
 # SpikesParser
 
+| Branch | Codecov | CI | Requirements |
+|--------|---------|---------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Master |  | [![Build Status](https://travis-ci.org/akshaybabloo/SpikesParser.svg?branch=master)](https://travis-ci.org/akshaybabloo/SpikesParser) |  |
+
 Data parser for Spikes SNN library but can also be used as an external library.
 
 SpikesParser supports `csv`, `json` (coming soon) and `sml` (coming soon) reading and writing.
