@@ -1,6 +1,2 @@
-
 __all__ = ['reader', 'writer']
-
-
-def get_version():
-    pass
+__version__ = "0.1a0"
