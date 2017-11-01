@@ -1,0 +1,19 @@
+[run]
+source=SpikesParser
+omin =
+    sklearn/*
+    scipy/*
+    numpy/*
+    _bootlocale.py
+    csv.py
+    decimal.py
+    distutils\__init__.py
+    distutils\version.py
+    encodings\cp1252.py
+    gzip.py
+    multiprocessing\pool.py
+    multiprocessing\synchronize.py
+    multiprocessing\util.py
+    numbers.py
+    pathlib.py
+    pydoc.py
