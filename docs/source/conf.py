@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# spikesdata documentation build configuration file, created by
+# spikesparser documentation build configuration file, created by
 # sphinx-quickstart on Tue Oct 31 15:44:01 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -49,7 +49,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'spikesdata'
+project = 'spikesparser'
 copyright = '2017, Akshay Raj Gollahalli'
 author = 'Akshay Raj Gollahalli'
 
@@ -142,7 +142,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'spikesdata.tex', 'spikesdata Documentation',
+    (master_doc, 'spikesparser.tex', 'spikesparser Documentation',
      'Akshay Raj Gollahalli', 'manual'),
 ]
 
@@ -152,7 +152,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'spikesdata', 'spikesdata Documentation',
+    (master_doc, 'spikesparser', 'spikesparser Documentation',
      [author], 1)
 ]
 
@@ -163,8 +163,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'spikesdata', 'spikesdata Documentation',
-     author, 'spikesdata', 'One line description of project.',
+    (master_doc, 'spikesparser', 'spikesparser Documentation',
+     author, 'spikesparser', 'One line description of project.',
      'Miscellaneous'),
 ]
 

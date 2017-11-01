@@ -10,7 +10,7 @@ import re
 import numpy as np
 from sklearn.model_selection import train_test_split
 
-from spikesdata.utils import SplitDataException, NotEnoughDataError
+from spikesparser.utils import SplitDataException, NotEnoughDataError
 
 logger = logging.getLogger(__name__)
 

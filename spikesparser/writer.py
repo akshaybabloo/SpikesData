@@ -1,6 +1,6 @@
 import os
 
-from spikesdata.utils import ConfigFileNotFound
+from spikesparser.utils import ConfigFileNotFound
 
 
 def write_config(content, file_name):

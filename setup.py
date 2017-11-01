@@ -2,7 +2,7 @@ import os
 
 from setuptools import setup, find_packages
 
-from spikesdata import __version__
+from spikesparser import __version__
 
 base_dir = os.path.dirname(__file__)
 
