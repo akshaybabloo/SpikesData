@@ -2,7 +2,7 @@
 
 | Branch | Codecov | CI | Requirements |
 |--------|---------|---------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Master |  | [![Build Status](https://travis-ci.org/akshaybabloo/SpikesParser.svg?branch=master)](https://travis-ci.org/akshaybabloo/SpikesParser) |  |
+| Master | [![codecov](https://codecov.io/gh/akshaybabloo/SpikesParser/branch/master/graph/badge.svg)](https://codecov.io/gh/akshaybabloo/SpikesParser) | [![Build Status](https://travis-ci.org/akshaybabloo/SpikesParser.svg?branch=master)](https://travis-ci.org/akshaybabloo/SpikesParser) |  |
 
 Data parser for Spikes SNN library but can also be used as an external library.
 
