@@ -1,6 +1,6 @@
 [run]
 source=SpikesParser
-omin =
+omit =
     sklearn/*
     scipy/*
     numpy/*
