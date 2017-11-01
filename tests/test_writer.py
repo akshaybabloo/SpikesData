@@ -40,6 +40,9 @@ class TestCSVReader(TestCase):
         assert_array_equal(self.read_csv_object.read_samples(), self.init_data)
 
     def test_sample_size(self):
+        """
+        Tests ``sample_size()``
+        """
 
         assert_array_equal(self.read_csv_object.sample_size(), np.shape(self.init_data)[0])
 
