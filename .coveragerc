@@ -17,4 +17,4 @@ omit =
     numbers.py
     pathlib.py
     pydoc.py
-    tests/*
+    *tests*
